@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/sam/.cache/gnome-builder/install/react-counter-app-0.5.0/host
+app-id=
+postbuild=
+prebuild=
+default=true
